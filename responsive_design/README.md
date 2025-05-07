@@ -1,1 +1,0 @@
-Responsive design project for Techium Digital Agency
